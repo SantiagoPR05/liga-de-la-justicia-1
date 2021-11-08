@@ -9,5 +9,5 @@ Pueden hacer lo que quieran...
 ## Nuevas modificaciones
 Observen las nuevos villanos
 
-# estos cambios son nuevos 
+# estos cambios son nuevos desde mi repositorio local
 veanlos!!
