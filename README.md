@@ -9,7 +9,7 @@ Pueden hacer lo que quieran...
 ## Nuevas modificaciones
 Observen las nuevos villanos
 
-# estos cambios son nuevos 
+# estos cambios son nuevos desde github1.0
 veanlos!!
 
 # estos cambios son nuevos pero desde github 
